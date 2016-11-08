@@ -1,2 +1,4 @@
 # hello-world
-first repository
+ 
+   Hello people!
+   Set to work on a new platform!
